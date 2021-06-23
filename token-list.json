@@ -1,0 +1,25 @@
+{
+  "name": "Wanda Token",
+  "logoURI": "https://github.com/ankuo599/wanda/blob/main/0x1603784021F77B7c756feeb27F0Af1134A765B2C/logo.png",
+  "keywords": [
+      "Wanda Token",
+      "WANDA",
+      "wanda"
+    ],
+    "timestamp": "2021-05-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x1603784021F77B7c756feeb27F0Af1134A765B2C",
+      "name": "Wanda Token",
+      "symbol": "WANDA",
+      "decimals": 8,
+      "logoURI": "https://github.com/ankuo599/wanda/blob/main/0x1603784021F77B7c756feeb27F0Af1134A765B2C/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
